@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:d.schindler@tilburguniversity.edu'
     label: E-mail Me
-  - icon: custom/bluesky
+  - icon: "custom/bluesky"
     url: https://bsky.app/profile/david-schindler.de
   - icon: brands/github
     url: https://github.com/davidschindler
