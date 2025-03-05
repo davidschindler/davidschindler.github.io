@@ -30,13 +30,18 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: collection
     id: research
     content:
       title: 'Research'
       subtitle: 'Publications'
-      text: |-
-        Publications will appear here.
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
     design:
       columns: '1'
   - block: collection
