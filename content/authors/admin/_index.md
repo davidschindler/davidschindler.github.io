@@ -45,9 +45,9 @@ profiles:
     url: https://orcid.org/0000-0002-5489-6311
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Behavioral & Experimental Economics
+  - Organizational & Institutitional Economics
+  - Economic History
 
 education:
   - area: PhD Economics
@@ -178,4 +178,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Associate Professor in the Economics department at Tilburg University, primarily interested in behavioral & experimental economics, economic history, and personnel economics. I am also a Research Fellow at CESifo.
+
+With my research, I seek to understand how insights from behavioral economics influence behavior in questions of public policy, political economy, as well as finance, and firm organization. In the past, I have predominantly used secondary data, as well as laboratory & field experiments.
