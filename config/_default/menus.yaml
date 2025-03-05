@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Research
-    url: /#resarch
+    url: /#research
     weight: 11
   - name: Software
     url: /#software
@@ -17,7 +17,7 @@ main:
     url: /#teaching
     weight: 13
   - name: Public Goods
-    url: publicgoods/
+    url: /#publicgoods
     weight: 20
   - name: Unfair Questions
     url: unfairquestions/
