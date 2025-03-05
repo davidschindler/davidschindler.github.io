@@ -34,7 +34,7 @@ sections:
     id: research
     content:
       title: 'Publications'
-      subtitle: ''
+      subtitle:
       text: ""
       count: 0
       filters:
