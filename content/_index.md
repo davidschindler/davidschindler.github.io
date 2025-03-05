@@ -33,8 +33,8 @@ sections:
   - block: collection
     id: research
     content:
-      title: 'Research'
-      subtitle: 'Publications'
+      title: 'Publications'
+      subtitle: ''
       text: ""
       count: 0
       filters:
