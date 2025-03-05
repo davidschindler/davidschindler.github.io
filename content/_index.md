@@ -36,6 +36,7 @@ sections:
       title: 'Research'
       subtitle: 'Publications'
       text: ""
+      count: 0
       filters:
         folders:
           - publication
