@@ -56,18 +56,18 @@ education:
     date_end: 2017-05-31
     summary:
       
-  - area: MSc Economics
+  - area: MSc Economics (Research Track)
     institution: Ludwig Maximilian University Munich
     date_start: 2010-10-01
     date_end: 2012-09-31
     summary: 
 
-  - area: Diplom Volkswirt
+  - area: Diplom Volkswirt (equiv MA Economics
     institution: University of Cologne
     date_start: 2005-10-01
     date_end: 2010-09-31
     summary: 
-
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
