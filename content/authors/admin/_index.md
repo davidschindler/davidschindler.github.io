@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   - icon: "custom/bluesky"
     url: https://bsky.app/profile/david-schindler.de
-  - icon: brands/github
-    url: https://github.com/davidschindler
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/david-schindler-42942236/
   - icon: academicons/google-scholar
