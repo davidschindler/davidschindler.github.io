@@ -53,15 +53,21 @@ education:
   - area: PhD Economics
     institution: Ludwig Maximilian University Munich
     date_start: 2012-10-01
-    date_end: 2017-05-31   
+    date_end: 2017-05-31
+    summary:
+      
   - area: MSc Economics
     institution: Ludwig Maximilian University Munich
-    date_start: 2010-10-01
-    date_end: 2012-09-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary:
+
   - area: Dipl.-Volkswirt
     institution: University of Cologne
-    date_start: 2005-10-01
-    date_end: 2010-09-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary:
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
