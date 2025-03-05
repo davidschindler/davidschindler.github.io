@@ -42,7 +42,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-    design:
       columns: '1'
   - block: collection
     id: papers
