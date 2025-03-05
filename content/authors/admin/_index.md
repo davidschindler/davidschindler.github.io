@@ -11,7 +11,7 @@ last_name: Schindler
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,18 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:d.schindler@tilburguniversity.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: custom/bluesky
+    url: https://bsky.app/profile/david-schindler.de
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/davidschindler
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/david-schindler-42942236/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.nl/citations?user=-u3JXM0AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-5489-6311
 
 interests:
   - Artificial Intelligence
