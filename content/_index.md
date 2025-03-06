@@ -47,11 +47,11 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 'Work in Progress'
       filters:
         folders:
-          - publication
-        featured_only: true
+          - workingpapers
+        featured_only: false
     design:
       view: article-grid
       columns: 2
