@@ -55,16 +55,14 @@ sections:
     design:
       view: citation
       columns: 1
-  - block: collection
+  - block: markdown
+    id: software
     content:
       title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+      text: | 
+      "I have been involved in the development of **μCap (muCap)**, a software tool that enables researchers to link z-Tree and Noldus FaceReader™. The tool can be used free of charge, but we require to be cited.
+
+      Please visit the [μCap website](http://mucap.david-schindler.de/) for further information on μCap and the terms of use."
   - block: collection
     id: talks
     content:
