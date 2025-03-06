@@ -58,7 +58,7 @@ sections:
   - block: markdown
     id: software
     content:
-      title: Recent Publications
+      title: Software
       text: |
         I have been involved in the development of **μCap (muCap)**, a software tool that enables researchers to link z-Tree and Noldus FaceReader™. The tool can be used free of charge, but we require to be cited.
 
