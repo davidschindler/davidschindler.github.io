@@ -1,5 +1,5 @@
 ---
-title: The Transferability of Racial Prejudice through Collective Memory: The Marocchinate
+title: "The Transferability of Racial Prejudice through Collective Memory: The Marocchinate"
 authors:
 - Riccardo Ghidoni
 - David Schindler
