@@ -53,7 +53,7 @@ sections:
           - workingpapers
         featured_only: false
     design:
-      view: article-grid
+      view: citation
       columns: 1
   - block: collection
     content:
