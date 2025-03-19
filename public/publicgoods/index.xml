@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Goods | David Schindler | Academic Website</title>
-    <link>https://davidschindler.github.io/publicgoods/</link>
-      <atom:link href="https://davidschindler.github.io/publicgoods/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://david-schindler.de/publicgoods/</link>
+      <atom:link href="https://david-schindler.de/publicgoods/index.xml" rel="self" type="application/rss+xml" />
     <description>Public Goods</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://davidschindler.github.io/media/icon_hu_f58cdc0cf67edc20.png</url>
+      <url>https://david-schindler.de/media/icon_hu_f58cdc0cf67edc20.png</url>
       <title>Public Goods</title>
-      <link>https://davidschindler.github.io/publicgoods/</link>
+      <link>https://david-schindler.de/publicgoods/</link>
     </image>
     
   </channel>

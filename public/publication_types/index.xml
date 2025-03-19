@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | David Schindler | Academic Website</title>
-    <link>https://davidschindler.github.io/publication_types/</link>
-      <atom:link href="https://davidschindler.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://david-schindler.de/publication_types/</link>
+      <atom:link href="https://david-schindler.de/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://davidschindler.github.io/media/icon_hu_f58cdc0cf67edc20.png</url>
+      <url>https://david-schindler.de/media/icon_hu_f58cdc0cf67edc20.png</url>
       <title>Publication_types</title>
-      <link>https://davidschindler.github.io/publication_types/</link>
+      <link>https://david-schindler.de/publication_types/</link>
     </image>
     
   </channel>
