@@ -1,5 +1,5 @@
 ---
-title: "Miscroaspects of leadership"
+title: "Microaspects of leadership"
 authors:
 - Florian Englmaier
 - Dominik Grothe

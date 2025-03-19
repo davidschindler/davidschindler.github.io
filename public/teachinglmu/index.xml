@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | David Schindler | Academic Website</title>
-    <link>https://david-schindler.de/teachinglmu/</link>
-      <atom:link href="https://david-schindler.de/teachinglmu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/teachinglmu/</link>
+      <atom:link href="http://localhost:1313/teachinglmu/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://david-schindler.de/media/icon_hu_f58cdc0cf67edc20.png</url>
+      <url>http://localhost:1313/media/icon_hu_f58cdc0cf67edc20.png</url>
       <title>Teaching</title>
-      <link>https://david-schindler.de/teachinglmu/</link>
+      <link>http://localhost:1313/teachinglmu/</link>
     </image>
     
     <item>
       <title>Behavioral &amp; Experimental Economics</title>
-      <link>https://david-schindler.de/teachinglmu/be_ee/</link>
+      <link>http://localhost:1313/teachinglmu/be_ee/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://david-schindler.de/teachinglmu/be_ee/</guid>
+      <guid>http://localhost:1313/teachinglmu/be_ee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microeconomics I</title>
-      <link>https://david-schindler.de/teachinglmu/micro1-2/</link>
+      <link>http://localhost:1313/teachinglmu/micro1-2/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://david-schindler.de/teachinglmu/micro1-2/</guid>
+      <guid>http://localhost:1313/teachinglmu/micro1-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Colloquium Research in Experimental Economics Topics</title>
-      <link>https://david-schindler.de/teachinglmu/colloquium2/</link>
+      <link>http://localhost:1313/teachinglmu/colloquium2/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://david-schindler.de/teachinglmu/colloquium2/</guid>
+      <guid>http://localhost:1313/teachinglmu/colloquium2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Colloquium Research in Experimental Economics Topics</title>
-      <link>https://david-schindler.de/teachinglmu/colloquium/</link>
+      <link>http://localhost:1313/teachinglmu/colloquium/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://david-schindler.de/teachinglmu/colloquium/</guid>
+      <guid>http://localhost:1313/teachinglmu/colloquium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microeconomics I</title>
-      <link>https://david-schindler.de/teachinglmu/micro1/</link>
+      <link>http://localhost:1313/teachinglmu/micro1/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://david-schindler.de/teachinglmu/micro1/</guid>
+      <guid>http://localhost:1313/teachinglmu/micro1/</guid>
       <description></description>
     </item>
     

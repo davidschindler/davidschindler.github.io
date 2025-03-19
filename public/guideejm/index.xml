@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide to the European Job Market | David Schindler | Academic Website</title>
-    <link>https://david-schindler.de/guideejm/</link>
-      <atom:link href="https://david-schindler.de/guideejm/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/guideejm/</link>
+      <atom:link href="http://localhost:1313/guideejm/index.xml" rel="self" type="application/rss+xml" />
     <description>Guide to the European Job Market</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://david-schindler.de/media/icon_hu_f58cdc0cf67edc20.png</url>
+      <url>http://localhost:1313/media/icon_hu_f58cdc0cf67edc20.png</url>
       <title>Guide to the European Job Market</title>
-      <link>https://david-schindler.de/guideejm/</link>
+      <link>http://localhost:1313/guideejm/</link>
     </image>
     
   </channel>
