@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Companian Papers to Software | David Schindler | Academic Website</title>
-    <link>https://david-schindler.de/software/</link>
-      <atom:link href="https://david-schindler.de/software/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://davidschindler.github.io/software/</link>
+      <atom:link href="https://davidschindler.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Companian Papers to Software</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://david-schindler.de/media/icon_hu_f58cdc0cf67edc20.png</url>
+      <url>https://davidschindler.github.io/media/icon_hu_f58cdc0cf67edc20.png</url>
       <title>Companian Papers to Software</title>
-      <link>https://david-schindler.de/software/</link>
+      <link>https://davidschindler.github.io/software/</link>
     </image>
     
     <item>
       <title>μCap: Connecting FaceReader™ to z-Tree</title>
-      <link>https://david-schindler.de/software/mucap/</link>
+      <link>https://davidschindler.github.io/software/mucap/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://david-schindler.de/software/mucap/</guid>
+      <guid>https://davidschindler.github.io/software/mucap/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;μCap is a software package (citeware) for economic experiments enabling experimenters to analyze emotional states of subjects using z-Tree and FaceReader™. μCap is able to create videos of subjects on client computers based on stimuli shown on screen and restrict recording material to relevant time frames. Another feature of μCap is the creation of time stamps in csv format at prespecified screens (or at prespecified points in time) during the experiment, measured on the client computer. The software makes it possible to import these markers into FaceReader™ easily. μCap is the first program that significantly simplifies the process of connecting z-Tree and FaceReader™ with the additional benefit of extremely high precision. This paper describes the usage, underlying principles as well as advantages and limitations of μCap. Furthermore, we give a brief outlook of how μCap can be beneficial in other contexts.&lt;/p&gt;
 </description>
