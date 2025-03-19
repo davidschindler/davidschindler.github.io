@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work in Progress | David Schindler | Academic Website</title>
-    <link>http://localhost:1313/workingpapers/</link>
-      <atom:link href="http://localhost:1313/workingpapers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://david-schindler.de/workingpapers/</link>
+      <atom:link href="https://david-schindler.de/workingpapers/index.xml" rel="self" type="application/rss+xml" />
     <description>Work in Progress</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_f58cdc0cf67edc20.png</url>
+      <url>https://david-schindler.de/media/icon_hu_f58cdc0cf67edc20.png</url>
       <title>Work in Progress</title>
-      <link>http://localhost:1313/workingpapers/</link>
+      <link>https://david-schindler.de/workingpapers/</link>
     </image>
     
     <item>
       <title>Calvinist Culture and Dutch Development</title>
-      <link>http://localhost:1313/workingpapers/calvinist/</link>
+      <link>https://david-schindler.de/workingpapers/calvinist/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workingpapers/calvinist/</guid>
+      <guid>https://david-schindler.de/workingpapers/calvinist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gun shops and suicides</title>
-      <link>http://localhost:1313/workingpapers/gunshops/</link>
+      <link>https://david-schindler.de/workingpapers/gunshops/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workingpapers/gunshops/</guid>
+      <guid>https://david-schindler.de/workingpapers/gunshops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Miscroaspects of leadership</title>
-      <link>http://localhost:1313/workingpapers/microaspects/</link>
+      <link>https://david-schindler.de/workingpapers/microaspects/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workingpapers/microaspects/</guid>
+      <guid>https://david-schindler.de/workingpapers/microaspects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The (Mis)Perceived Determinants of Team Success in Non-Routine Analytical Tasks</title>
-      <link>http://localhost:1313/workingpapers/determinants/</link>
+      <link>https://david-schindler.de/workingpapers/determinants/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workingpapers/determinants/</guid>
+      <guid>https://david-schindler.de/workingpapers/determinants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The spread of tolerance</title>
-      <link>http://localhost:1313/workingpapers/contactpersistence/</link>
+      <link>https://david-schindler.de/workingpapers/contactpersistence/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workingpapers/contactpersistence/</guid>
+      <guid>https://david-schindler.de/workingpapers/contactpersistence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Transferability of Racial Prejudice through Collective Memory: The Marocchinate</title>
-      <link>http://localhost:1313/workingpapers/marocchinate/</link>
+      <link>https://david-schindler.de/workingpapers/marocchinate/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workingpapers/marocchinate/</guid>
+      <guid>https://david-schindler.de/workingpapers/marocchinate/</guid>
       <description></description>
     </item>
     

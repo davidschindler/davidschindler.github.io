@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python | David Schindler | Academic Website</title>
-    <link>http://localhost:1313/tags/python/</link>
-      <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://david-schindler.de/tags/python/</link>
+      <atom:link href="https://david-schindler.de/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_f58cdc0cf67edc20.png</url>
+      <url>https://david-schindler.de/media/icon_hu_f58cdc0cf67edc20.png</url>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://david-schindler.de/tags/python/</link>
     </image>
     
     <item>
       <title>Public Sector Economics</title>
-      <link>http://localhost:1313/teaching/publicsector7/</link>
+      <link>https://david-schindler.de/teaching/publicsector7/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/publicsector7/</guid>
+      <guid>https://david-schindler.de/teaching/publicsector7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economic History</title>
-      <link>http://localhost:1313/teaching/econhistory2/</link>
+      <link>https://david-schindler.de/teaching/econhistory2/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/econhistory2/</guid>
+      <guid>https://david-schindler.de/teaching/econhistory2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Sector Economics</title>
-      <link>http://localhost:1313/teaching/publicsector6/</link>
+      <link>https://david-schindler.de/teaching/publicsector6/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/publicsector6/</guid>
+      <guid>https://david-schindler.de/teaching/publicsector6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economic History</title>
-      <link>http://localhost:1313/teaching/econhistory/</link>
+      <link>https://david-schindler.de/teaching/econhistory/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/econhistory/</guid>
+      <guid>https://david-schindler.de/teaching/econhistory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Sector Economics</title>
-      <link>http://localhost:1313/teaching/publicsector5/</link>
+      <link>https://david-schindler.de/teaching/publicsector5/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/publicsector5/</guid>
+      <guid>https://david-schindler.de/teaching/publicsector5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Sector Economics</title>
-      <link>http://localhost:1313/teaching/publicsector4/</link>
+      <link>https://david-schindler.de/teaching/publicsector4/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/publicsector4/</guid>
+      <guid>https://david-schindler.de/teaching/publicsector4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar Economics and Psychology of Risk and Time</title>
-      <link>http://localhost:1313/teaching/seminarpsych5/</link>
+      <link>https://david-schindler.de/teaching/seminarpsych5/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/seminarpsych5/</guid>
+      <guid>https://david-schindler.de/teaching/seminarpsych5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Sector Economics</title>
-      <link>http://localhost:1313/teaching/publicsector3/</link>
+      <link>https://david-schindler.de/teaching/publicsector3/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/publicsector3/</guid>
+      <guid>https://david-schindler.de/teaching/publicsector3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar Economics and Psychology of Risk and Time</title>
-      <link>http://localhost:1313/teaching/seminarpsych4/</link>
+      <link>https://david-schindler.de/teaching/seminarpsych4/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/seminarpsych4/</guid>
+      <guid>https://david-schindler.de/teaching/seminarpsych4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macroeconomics for Econometrics and Operations Research</title>
-      <link>http://localhost:1313/teaching/macroeor4/</link>
+      <link>https://david-schindler.de/teaching/macroeor4/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/macroeor4/</guid>
+      <guid>https://david-schindler.de/teaching/macroeor4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Sector Economics</title>
-      <link>http://localhost:1313/teaching/publicsector2/</link>
+      <link>https://david-schindler.de/teaching/publicsector2/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/publicsector2/</guid>
+      <guid>https://david-schindler.de/teaching/publicsector2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar Economics and Psychology of Risk and Time</title>
-      <link>http://localhost:1313/teaching/seminarpsych3/</link>
+      <link>https://david-schindler.de/teaching/seminarpsych3/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/seminarpsych3/</guid>
+      <guid>https://david-schindler.de/teaching/seminarpsych3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macroeconomics for Econometrics and Operations Research</title>
-      <link>http://localhost:1313/teaching/macroeor3/</link>
+      <link>https://david-schindler.de/teaching/macroeor3/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/macroeor3/</guid>
+      <guid>https://david-schindler.de/teaching/macroeor3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Sector Economics</title>
-      <link>http://localhost:1313/teaching/publicsector/</link>
+      <link>https://david-schindler.de/teaching/publicsector/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/publicsector/</guid>
+      <guid>https://david-schindler.de/teaching/publicsector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar Economics and Psychology of Risk and Time</title>
-      <link>http://localhost:1313/teaching/seminarpsych2/</link>
+      <link>https://david-schindler.de/teaching/seminarpsych2/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/seminarpsych2/</guid>
+      <guid>https://david-schindler.de/teaching/seminarpsych2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macroeconomics for Econometrics and Operations Research</title>
-      <link>http://localhost:1313/teaching/macroeor2/</link>
+      <link>https://david-schindler.de/teaching/macroeor2/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/macroeor2/</guid>
+      <guid>https://david-schindler.de/teaching/macroeor2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar Economics and Psychology of Risk and Time</title>
-      <link>http://localhost:1313/teaching/seminarpsych/</link>
+      <link>https://david-schindler.de/teaching/seminarpsych/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/seminarpsych/</guid>
+      <guid>https://david-schindler.de/teaching/seminarpsych/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Law and Economics</title>
-      <link>http://localhost:1313/teaching/lawecon/</link>
+      <link>https://david-schindler.de/teaching/lawecon/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/lawecon/</guid>
+      <guid>https://david-schindler.de/teaching/lawecon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macroeconomics for Econometrics and Operations Research</title>
-      <link>http://localhost:1313/teaching/macroeor/</link>
+      <link>https://david-schindler.de/teaching/macroeor/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/macroeor/</guid>
+      <guid>https://david-schindler.de/teaching/macroeor/</guid>
       <description></description>
     </item>
     
