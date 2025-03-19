@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retired Papers | David Schindler | Academic Website</title>
+    <link>http://localhost:1313/retiredpapers/</link>
+      <atom:link href="http://localhost:1313/retiredpapers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Retired Papers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_f58cdc0cf67edc20.png</url>
+      <title>Retired Papers</title>
+      <link>http://localhost:1313/retiredpapers/</link>
+    </image>
+    
+    <item>
+      <title>The Incentive Effects of Uncertainty in Tournaments</title>
+      <link>http://localhost:1313/retiredpapers/risk/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/retiredpapers/risk/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Employees are exposed to different sources of uncertainty when competing in tournaments. First, they face the outcome risk of winning or losing. Second, they face prize risk in promotion tournaments due to the stochastic option value of future promotion possibilities. In addition, employees face strategic uncertainty, since they compete against a performance standard that is endogenously determined by the effort of their opponent. This paper investigates empirically whether and how these sources of uncertainty affect incentives to provide effort. In the absence of strategic uncertainty, we find that outcome risk strongly increases average effort, while prize risk does not affect effort on average. Averages hide substantial variation in individual responses to outcome and prize risk that depend on gender as well as on second- and thirdorder risk attitudes. We also find that agents reduce effort in response to strategic uncertainty, particularly in the presence of outcome or prize risk.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
