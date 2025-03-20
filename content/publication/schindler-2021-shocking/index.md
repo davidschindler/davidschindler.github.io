@@ -7,7 +7,7 @@ date: '2021-01-01'
 publishDate: '2025-03-05T13:24:15.000104Z'
 publication_types:
 - article-journal
-publication: '*The Review of Economic Studies*'
+publication: '*Review of Economic Studies*'
 doi: 'http://dx.doi.org/10.1093/restud/rdaa039'
 url_pdf: 'https://academic.oup.com/restud/article-pdf/88/1/489/36167364/rdaa039.pdf'
 url_dataset: 'https://doi.org/10.5281/zenodo.3923957'
