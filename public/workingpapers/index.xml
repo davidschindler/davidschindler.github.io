@@ -5,12 +5,20 @@
     <link>http://localhost:1313/workingpapers/</link>
       <atom:link href="http://localhost:1313/workingpapers/index.xml" rel="self" type="application/rss+xml" />
     <description>Work in Progress</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_f58cdc0cf67edc20.png</url>
       <title>Work in Progress</title>
       <link>http://localhost:1313/workingpapers/</link>
     </image>
+    
+    <item>
+      <title>Contagious Prejudice: The Marocchinate</title>
+      <link>http://localhost:1313/workingpapers/marocchinate/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/workingpapers/marocchinate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Calvinist Culture and Dutch Development</title>
@@ -49,14 +57,6 @@
       <link>http://localhost:1313/workingpapers/contactpersistence/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/workingpapers/contactpersistence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Transferability of Racial Prejudice through Collective Memory: The Marocchinate</title>
-      <link>http://localhost:1313/workingpapers/marocchinate/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workingpapers/marocchinate/</guid>
       <description></description>
     </item>
     
