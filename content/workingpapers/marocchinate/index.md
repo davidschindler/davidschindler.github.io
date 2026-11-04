@@ -9,8 +9,8 @@ publication_types:
 - article-journal
 publication: '*Working Paper*'
 links:
-    - name: CESifo Working Paper
-      url: 'https://www.ifo.de/DocDL/cesifo1_wp12376.pdf' 
-    - name: IZA Working Paper
-      url: 'https://docs.iza.org/dp19051.pdf' 
+  - name: CESifo Working Paper
+    url: 'https://www.ifo.de/DocDL/cesifo1_wp12376.pdf'
+  - name: IZA Working Paper
+    url: 'https://docs.iza.org/dp19051.pdf'
 ---
