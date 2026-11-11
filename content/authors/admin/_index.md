@@ -69,6 +69,6 @@ education:
 
 ## About Me
 
-I am an Associate Professor in the [Economics department](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/economics) at [Tilburg University](https://tilburguniversity.edu), primarily interested in behavioral & experimental economics, economic history, and personnel economics. I am also a Research Fellow at [CESifo](https://www.cesifo.org/en).
+I am an Associate Professor in the [Economics department](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/economics) at [Tilburg University](https://tilburguniversity.edu), primarily interested in behavioral & experimental economics, economic history, and personnel economics. I am also a Research Fellow at [CESifo](https://www.cesifo.org/en) and [IZA@LISER](https://www.iza.org).
 
 With my research, I seek to understand how insights from behavioral economics influence behavior in questions of public policy, political economy, as well as finance, and firm organization. In the past, I have predominantly used secondary data, as well as laboratory & field experiments.
